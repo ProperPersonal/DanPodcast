@@ -171,10 +171,14 @@ section {
   padding: 20px 0;
 }
 
+
+
+
 .header.header-scrolled {
-  background: #fff;
+  background: url(../img/hero-bg.png);
   padding: 15px 0;
   box-shadow: 0px 2px 20px rgba(1, 41, 112, 0.1);
+  color: #152238;
 }
 
 .header .logo {
@@ -225,7 +229,7 @@ section {
   font-family: "Nunito", sans-serif;
   font-size: 16px;
   font-weight: 700;
-  color: #0000e6;
+  color: white;
   white-space: nowrap;
   transition: 0.3s;
 }
